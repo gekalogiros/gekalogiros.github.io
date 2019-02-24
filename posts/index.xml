@@ -12,6 +12,25 @@
     
     
     <item>
+      <title>Vi cheatsheet</title>
+      <link>https://gkalogiros.com/posts/vi/</link>
+      <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/vi/</guid>
+      <description>Navigation hjkl: left/up/down/right
+gg: move to the start of the file
+Shift+g: move to the end of file
+w: move to the start of the next word
+Shift+e: move to the end of the next work
+Actions Esc: Switch to visual mode
+Text Edit i: Start Editing
+dd: Delete line
+Commands help: show vi documentation
+/word: will search for occurences of &amp;ldquo;word&amp;rdquo; in the document
+!wq: Save and exit</description>
+    </item>
+    
+    <item>
       <title>New Hugo Blog</title>
       <link>https://gkalogiros.com/posts/new-hugo-blog/</link>
       <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
