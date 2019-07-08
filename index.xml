@@ -6,10 +6,38 @@
     <description>Recent content on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 11 Aug 2018 11:24:12 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 11:45:30 +0100</lastBuildDate>
     
 	<atom:link href="https://gkalogiros.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unix</title>
+      <link>https://gkalogiros.com/posts/unix/</link>
+      <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/unix/</guid>
+      <description>File Search *find . -name &amp;ldquo;dev&amp;ldquo;: Find files containing dev in current and sub directories</description>
+    </item>
+    
+    <item>
+      <title>Vi cheatsheet</title>
+      <link>https://gkalogiros.com/posts/vi/</link>
+      <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/vi/</guid>
+      <description>Navigation hjkl: left/up/down/right
+gg: move to the start of the file
+Shift+g: move to the end of file
+w: move to the start of the next word
+Shift+e: move to the end of the next work
+Actions Esc: Switch to visual mode
+Text Edit i: Start Editing
+dd: Delete line
+Commands help: show vi documentation
+/word: will search for occurences of &amp;ldquo;word&amp;rdquo; in the document
+!wq: Save and exit</description>
+    </item>
     
     <item>
       <title>New Hugo Blog</title>
@@ -42,8 +70,9 @@ Long story short, I felt more comfortable with Hugo, mainly because I found a re
       <description>Hello! I am Georgios. I like programming, cycling and photography!
 My tech journey started many many years a go in a galaxy far far away when I started programming in Clipper and Logo.
 It was super exciting!
-It taught me how be creative and kept myself entertained!
-I graduated from Computer Engineering and Informatics Department of University of Patras and I hold an MSc on Internet Technologies and Security at University of Bristol.</description>
+It taught me how be creative!
+I graduated from Computer Engineering and Informatics Department of University of Patras and I hold an MSc on Internet Technologies and Security from University of Bristol.
+Currently, I solve problems with code for fun and profit.</description>
     </item>
     
     <item>

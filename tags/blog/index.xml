@@ -6,10 +6,19 @@
     <description>Recent content in Blog on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 11 Aug 2018 11:24:12 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 11:45:30 +0100</lastBuildDate>
     
 	<atom:link href="https://gkalogiros.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unix</title>
+      <link>https://gkalogiros.com/posts/unix/</link>
+      <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/unix/</guid>
+      <description>File Search *find . -name &amp;ldquo;dev&amp;ldquo;: Find files containing dev in current and sub directories</description>
+    </item>
     
     <item>
       <title>New Hugo Blog</title>

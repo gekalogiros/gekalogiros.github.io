@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Unix</title>
+      <link>https://gkalogiros.com/posts/unix/</link>
+      <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/unix/</guid>
+      <description>File Search *find . -name &amp;ldquo;dev&amp;ldquo;: Find files containing dev in current and sub directories</description>
+    </item>
+    
+    <item>
       <title>Vi cheatsheet</title>
       <link>https://gkalogiros.com/posts/vi/</link>
       <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
